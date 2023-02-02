@@ -26,5 +26,5 @@ def linsearch(query, sorted_list):
     return False
 
 a = [word.rstrip() for word in sys.stdin if len(word.rstrip()) >= 5]
-print([word for word in a if linsearch(word.lower()[::-1], a)])
+print([word for word in a if binsearch(word.lower()[::-1], a)])
 print(f'Execution Time: {(time.time() - start_time):.5f} seconds')
