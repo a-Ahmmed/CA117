@@ -7,7 +7,7 @@ len18plus = [line.strip() for line in a if len(line.strip()) >= 18]
 a4 = [line.strip() for line in a if line.strip().lower().count("a") == 4]
 q2plus = [line.strip() for line in a if line.strip().lower().count("q") >= 2]
 cie = [line.strip() for line in a if "cie" in line]
-angleana = [line.strip() for line in a if sorted(line.strip().lower()) == ['a', 'e', 'g', 'l', 'n'] and line.strip().lower()]
+angleana = [line.strip() for line in a if sorted(line.strip().lower()) == ['a', 'e', 'g', 'l', 'n']]
 angleana.remove("angle")
 
 print(f'Words containing 17 letters: {len17}')
