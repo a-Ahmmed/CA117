@@ -1,3 +1,5 @@
+# TO PASS ON EINSTEIN REMOVE LINEAR SEARCH AND ALL REFERENCES TO TIME
+
 import sys
 import time
 start_time = time.time()
