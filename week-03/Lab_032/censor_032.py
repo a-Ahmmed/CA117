@@ -5,10 +5,8 @@ with open(sys.argv[1], "r") as f:
 a = [line.rstrip() for line in sys.stdin]
 
 for censor in censors:
-    i = 0
-    while i < len(a):
-        a[i] = a[i].replace(censor, "@" * len(censor))
-        i += 1
+    for i, word in enumerate(a):
+        a[i] = word.replace(censor, "@" * len(censor))
 
 for line in a:
     print(line)
