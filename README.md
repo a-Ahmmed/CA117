@@ -28,7 +28,7 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 **Things to note:**
 
 1. Sample input files are included but not exhaustive
-2. The Bucketlist excercises might be different for year to year
+2. The Bucketlist excercises might be different from year to year
 3. Week 7 is excluded due to it being reading week
 
 ---
