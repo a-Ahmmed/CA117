@@ -30,6 +30,7 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 1. Sample input files are included but not exhaustive
 2. The Bucketlist excercises might be different from year to year
 3. Week 7 is excluded due to it being reading week
+4. *_testScript.py files are used to test classes and fragments
 
 ---
 
