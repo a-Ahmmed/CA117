@@ -4,14 +4,14 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 
 ---
 
-* Week 1-6:		&nbsp;&nbsp;&nbsp;&nbsp; General Python Programming
+* Week 1-6:		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Python Programming
 * Week 8-12:	&nbsp;&nbsp;&nbsp;&nbsp;Object-Oriented Programming (OOP)
 
 ---
 
 ##### Topics covered each week:
 
-* **Week 1:**		&nbsp;&nbsp;&nbsp;&nbsp; Strings
+* **Week 1:**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strings
 * **Week 2:**		&nbsp;&nbsp;&nbsp;&nbsp;Lists, Tuples, Exception Handling, and Files
 * **Week 3:**		&nbsp;&nbsp;&nbsp;&nbsp;List Comprehension
 * **Week 4:**		&nbsp;&nbsp;&nbsp;&nbsp;Dictionaries, Sets
