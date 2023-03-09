@@ -5,7 +5,7 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 ---
 
 * Week 1-6: 	&emsp;&emsp;&emsp;&emsp;General Python Programming
-* Week 8-12:&emsp;	&emsp;&emsp;&emsp;Object-Oriented Programming (OOP)
+* Week 8-12:&ensp;	&emsp;&emsp;&emsp;Object-Oriented Programming (OOP)
 
 ---
 
