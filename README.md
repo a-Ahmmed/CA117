@@ -10,8 +10,8 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 ---
 
 ##### Topics covered each week:
-<pre>
-* **Week 1:**		Strings
+
+* **Week 1:**		        Strings
 * **Week 2:**		Lists, Tuples, Exception Handling, and Files
 * **Week 3:**		List Comprehension
 * **Week 4:**		Dictionaries, Sets
@@ -22,7 +22,7 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 * **Week 10:**
 * **Week 11:**
 * **Week 12:**
-</pre>
+
 ---
 
 **Things to note:**
