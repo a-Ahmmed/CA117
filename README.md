@@ -18,7 +18,7 @@ Solutions for each weeks **Lab Tasks** and **CA exams**
 * **Week 5:**		&nbsp;&nbsp;&nbsp;&nbsp;Sample Lab Exams
 * **Week 6:**		&nbsp;&nbsp;&nbsp;&nbsp;CA 1, Functions
 * **Week 8:**		&nbsp;&nbsp;&nbsp;&nbsp;Classes
-* **Week 9:**
+* **Week 9:**		&nbsp;&nbsp;&nbsp;&nbsp;Operator Overloading
 * **Week 10:**
 * **Week 11:**
 * **Week 12:**
